@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on visualizing pathfinding algorithms
-- 🌱 I’m currently learning how to work on open-source software
+- 🔭 Working on visualizing pathfinding algorithms
+- 🌱 Learning how to work on open-source software
 <!--
 **Evan-Peterson/Evan-Peterson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
